@@ -1,0 +1,27 @@
+Абстарктная фабрика - зачет
+
+Че выучил:
+
+Порождающие: 5
+factory method
+abstact factory
+builder 
+singleton
+prototype
+
+Структурные: 5
+composite
+decorator
+facade
+flyweight
+proxy
+
+Поведенческие: 3
+observer
+chain of responsibility
+visitor
+state 
+
+
+Итого: 11
+
